@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maryluzmeva
 - 👀 I’m interested in Traveling, Photography, DIY, 
 - 🌱 I’m currently learning how to code in shecodes.io
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Check Code Spelling, small projects where I can practice my skills in HTML,CSS, JS and React.
 - 📫 How to reach me Email: maryluzmeva@gmail.com
 
 <!---
