@@ -12,19 +12,29 @@ Greetings, fellow coders! I'm Maryluz, a passionate and creative Junior Front En
 ## 💼 Featured Projects
 
 ### Project 1: Landing Page
+This was my first ever Coding Project, still raw but I learned a lot about HTML, CSS, and JavaScript.
+Also experimenting with the Light/Dark Mode
+(https://kurylaky-handmade.netlify.app/)
 
-Short description and purpose of the project. Include key technologies used and a link to the project repository.
+### Project 2: World Clock Timezones
+First Vanilla JavaScript Project
+(https://kurylaky-worldclock.netlify.app/)
 
-![Project 1: A brief snapshot or screenshot]([link-to-project1-snapshot.png](https://kurylaky-handmade.netlify.app/))
+### Project 3: Weather App in React
+A challenging project where I learned how to use React, create components, call API with React, add external libraries, etc.
+(https://rain-or-not-rain.netlify.app/)
 
-### Project 2: [Project Name 2]
+### Project 4: Dictionary App in React
+The second project in React uses two different APIs
+(https://dictionary-whatmeans.netlify.app/)
 
-Another captivating project with a short description, technologies, and a link to the repository.
-
-![Project 2: A visual teaser](link-to-project2-teaser.png)
+### Project 5: Landing Responsive Page
+A page about the city where I live, using Bootstrap, Responsive Design, HTML, and CSS.
+I am very proud of this project because I feel is very aesthetic and informative.
+Because of this project, I started to be interested in UI/UX Design.
+(https://traveltohallesaale.netlify.app/)
 
 ## 🛠️ Tools of the Trade
-
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks:** React
 - **Tools:** VSCode, Git, Figma
@@ -35,7 +45,7 @@ Constantly leveling up my skills and exploring new frontiers in the ever-evolvin
 
 ## 📢 Let's Connect!
 
-- **LinkedIn:** []
+- **LinkedIn:** [https://www.linkedin.com/in/maryluz-mendez-vargas/]
 - **Instagram:** [https://www.instagram.com/kurylaky.coding]
 
 Feel free to explore my projects, provide feedback, or reach out for collaboration. 
