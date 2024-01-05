@@ -47,6 +47,7 @@ Constantly leveling up my skills and exploring new frontiers in the ever-evolvin
 
 - **LinkedIn:** [https://www.linkedin.com/in/maryluz-mendez-vargas/]
 - **Instagram:** [https://www.instagram.com/kurylaky.coding]
+- **Ko-Fi:** [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U2NSDQ0)
 
 Feel free to explore my projects, provide feedback, or reach out for collaboration. 
 Let's build something amazing together! 🚀
