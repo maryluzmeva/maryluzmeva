@@ -55,4 +55,4 @@ Let's build something amazing together! 🚀
 ---
 
 ** Remember, the code is mightier than the sword! Happy coding!**
-
+<a href="https://app.daily.dev/maryluzmeva"><img src="https://api.daily.dev/devcards/v2/qINERWrqufHbzwxGD8ZEf.png?type=default&r=od2" width="356" alt="Maryluz Mendez's Dev Card"/></a>
